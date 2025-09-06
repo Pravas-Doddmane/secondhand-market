@@ -1,3 +1,20 @@
+# Team Name: Tech-Titens
+Pravas D S
+Charan G C
+Gagan L K
+Pannag Ragavendra shet
+
+# Problem statment
+EcoFinds - Sustainable Second-Hand Marketplace
+
+# Run the Backend secondhandmarketplace
+SecondhandmarketplaceApp.java
+FrameWork: Spring Boot
+
+# Change your database name and password 
+in application.properties
+# Later Run Fronend:
+FrameWrok: React.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
