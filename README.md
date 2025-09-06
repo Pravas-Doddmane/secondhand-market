@@ -1,5 +1,5 @@
 # Team Name: Tech-Titens
-Pravas D S,  Charan G C,  Gagan L K, Pannag Ragavendra shet
+Pravas D S,  Charan G C,  Gagan L K, Pannag Ragavendra shet. (everyone's passing year is 2027)
 
 # Problem statment
 EcoFinds - Sustainable Second-Hand Marketplace
