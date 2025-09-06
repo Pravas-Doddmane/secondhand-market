@@ -1,8 +1,5 @@
 # Team Name: Tech-Titens
-Pravas D S
-Charan G C
-Gagan L K
-Pannag Ragavendra shet
+Pravas D S,  Charan G C,  Gagan L K, Pannag Ragavendra shet
 
 # Problem statment
 EcoFinds - Sustainable Second-Hand Marketplace
